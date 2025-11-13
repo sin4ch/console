@@ -1,4 +1,4 @@
-# SST Console
+# SST Consol
 
 The SST Console is a web based dashboard for managing your SST apps with your team — [**console.sst.dev**](https://console.sst.dev)
 
